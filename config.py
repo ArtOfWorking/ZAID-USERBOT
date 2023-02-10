@@ -18,10 +18,10 @@ ALIVE_TEXT = getenv("ALIVE_TEXT")
 PM_LOGGER = getenv("PM_LOGGER")
 LOG_GROUP = getenv("LOG_GROUP")
 GIT_TOKEN = getenv("GIT_TOKEN") #personal access token
-REPO_URL = getenv("REPO_URL", "https://github.com/ITZ-ZAID/ZAID-USERBOT")
+REPO_URL = getenv("REPO_URL", "https://github.com/ArtOfWorking/ZAID-USERBOT")
 BRANCH = getenv("BRANCH", "master") #don't change
  
-STRING_SESSION1 = getenv("STRING_SESSION1", "")
+STRING_SESSION1 = getenv("STRING_SESSION1", "BQBiMZkAtCr3wdszu1udwBbyDsQDM23Bgy2cflMq09XG4zJHql6RBDO94ZTZTxJ20ngLNnM7KI9fkkomqw5zi1fnGYCc9xM2LblRzDGTFpPY6xhdlcsQ2lA4jVw_lqcF2pfjDvuY8PY5e-jmlWtsEAGq979xbJ3wPjBPMGYlfqexVyIk3x9eBfNRGWQ-z1eRHzxqwXKkpc_xPaKf367yHLND_9H7ADvqGKYrAtyPkEbLvKk8OlYBnhIQzbplypdSgKWMRuSd6_596mHKYNfl2l-I4XnbmzpQ4VFv9kRtaEAtXPJfnIFEAxwJaTxi2cF7A-dNosd5QdGY74-AcLkYlU9mjTWpZwAAAAByWFBvAA")
 STRING_SESSION2 = getenv("STRING_SESSION2", "")
 STRING_SESSION3 = getenv("STRING_SESSION3", "")
 STRING_SESSION4 = getenv("STRING_SESSION4", "")
